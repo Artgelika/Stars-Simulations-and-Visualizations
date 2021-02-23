@@ -1,5 +1,5 @@
 # Stars-Simulations
-Star Cluster Simulations
+Star Cluster Simulations \
 The main focus is on visualization and analysis.
 
 Which feature defines escaping stars? 
